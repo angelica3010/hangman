@@ -95,7 +95,7 @@ function roundComplete(){
 
 		document.getElementById("lossCounter").innerHTML= lossCounter; 
 		startGame(); 
-
+	}
 }
 
 startGame();
